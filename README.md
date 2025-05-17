@@ -1,1 +1,1 @@
-# Teja
+**This is My Personal Git Repository for the Learning**
